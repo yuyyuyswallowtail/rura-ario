@@ -1,0 +1,5 @@
+{
+  "files": { "includes": ["src/**/*.ts", "src/**/*.tsx"] },
+  "linter": { "enabled": true, "rules": { "recommended": true } },
+  "formatter": { "indentStyle": "space", "indentWidth": 2 }
+}
