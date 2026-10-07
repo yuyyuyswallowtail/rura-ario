@@ -26,7 +26,7 @@ const person = (id: string): ImageAsset =>
 
 export const IMG = {
   hero: mk(
-    "photo-1581093458791-9f3c3900df4b",
+    "photo-1668198991378-59ee7fdd264a",
     "Researcher working at an instrument",
     "Instrument calibration",
     900,
